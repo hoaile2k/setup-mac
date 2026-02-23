@@ -10,7 +10,6 @@
 - Webstorm: brew install --cask webstorm || https://www.jetbrains.com/webstorm/download/#section=mac
 - Visual studio code: brew install --cask visual-studio-code || https://code.visualstudio.com/download
 - Cocos creator: https://www.cocos.com/en/creator-download
-- Cocos M1 2.1.3 (Share from rng team if cannot download contact LV): https://drive.google.com/file/d/1VnVMU7us7YtT0HGeJu6l2_SMZVJDyNJP/view
 
 **Social application:**
 - Zalo: brew install --cask zalo || https://zalo.me/pc
